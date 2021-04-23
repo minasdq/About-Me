@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url("../fonts/Eicons.eot?l5hu8c");
+  src: url("../fonts/Eicons.eot?l5hu8c#iefix") format("embedded-opentype"), url("../fonts/Eicons.ttf?l5hu8c") format("truetype"), url("../fonts/Eicons.woff?l5hu8c") format("woff"), url("../fonts/Eicons.svg?l5hu8c#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cv-file:before {
+  content: "\e900";
+}
+
+.icon-message:before {
+  content: "\e901";
+}
+
+.icon-phone-call:before {
+  content: "\e902";
+}
+
+.icon-arrow-up-double:before {
+  content: "\e909";
+}
+
+.icon-arrow-down:before {
+  content: "\e90a";
+}
+
+.icon-menu:before {
+  content: "\e90b";
+}
+
+.icon-questions:before {
+  content: "\e903";
+}
+
+.icon-search:before {
+  content: "\e904";
+}
+
+.icon-check:before {
+  content: "\e905";
+}
+
+.icon-twitter:before {
+  content: "\e906";
+}
+
+.icon-instagram:before {
+  content: "\e907";
+}
+
+.icon-telegram:before {
+  content: "\e908";
+}
